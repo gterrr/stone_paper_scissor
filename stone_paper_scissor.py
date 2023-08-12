@@ -1,5 +1,6 @@
 import random
 
+#stone paper scissor game
 def game(bot,you):
     if bot==you:
         return None
